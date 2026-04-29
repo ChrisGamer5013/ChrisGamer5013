@@ -62,7 +62,7 @@ Expertise in circumventing proprietary hardware monopolies to run high-performan
 | **Operational State** | **Assigned Artist** | **Audio Stream** |
 | :--- | :--- | :--- |
 | **Deep Logic** | `Schiller` | [System Audio](https://www.youtube.com/results?search_query=Schiller) |
-| **Translation Flow** | `Armin van Buuren` | [**ASOT 1259: Under My Skin**](https://www.youtube.com/watch?v=ywcYbUEnJIk) |
+| **Translation Flow** | `Armin van Buuren` | [**ASOT 1259: Under My Skin**](https://www.youtube.com/watch?v=4Z_F8zgD0KA&list=RD4Z_F8zgD0KA&start_radio=1&pp=ygUXVW5kZXIgbXkgc2tpbiBhc290IDEyNTmgBwE%3D) |
 | **Memory Management** | `Rammstein` | [System Audio](https://www.youtube.com/results?search_query=Rammstein) |
 | **High-Speed Debugging** | `Skrillex` | [System Audio](https://www.youtube.com/results?search_query=Skrillex) |
 | **Protocol Takedown** | `Limp Bizkit` | [System Audio](https://www.youtube.com/results?search_query=Limp+Bizkit) |
