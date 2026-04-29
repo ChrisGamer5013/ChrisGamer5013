@@ -18,12 +18,11 @@
 
 ## 📊 TELEMETRY & SYSTEM STATS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisGamer5013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisGamer5013&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Void-Compute&repo=AMD-Ghost-Enviroment&theme=tokyonight&show_owner=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGamer5013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" width="48%" />
 </div>
-
 ---
-
 ## ⚙️ THE ARCHITECTURE
 
 Expertise in circumventing proprietary hardware monopolies to run high-performance AI and rendering pipelines natively on AMD (ROCm/HIP) and Intel (Level Zero) architectures. Focus is strictly on zero-overhead translation at the bare-metal level.
