@@ -17,14 +17,19 @@
 ---
 
 ## 📊 TELEMETRY & SYSTEM STATS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Void-Compute&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&include_all_commits=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisGamer5013&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void-Compute&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" width="48%" />
+  <img src="https://img.shields.io/github/stars/Void-Compute/AMD-Ghost-Enviroment?style=for-the-badge&logo=github&color=00FF99&label=Ghost%20Environment%20Stars" alt="Stars">
+  
+  <img src="https://img.shields.io/badge/Rank-Architect_Grade_A%2B-00599C?style=for-the-badge&logo=starship&logoColor=white" alt="Rank">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisGamer5013&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGamer5013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" width="48%" />
 </div>
 
 ---
