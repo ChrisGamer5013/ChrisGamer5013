@@ -3,7 +3,7 @@
 # 🌌 CHRISTOPHER MANIUT | VOID COMPUTE
 **Lead Architect & Systems Reverse-Engineer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Translating+CUDA+to+HIP+at+bare-metal...;Bypassing+vendor+locks+with+surgical+logic...;Target+Acquired:+Jugend+forscht+2027...;Maximum+Compute.+Zero+Overhead.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Translating+CUDA+to+HIP+at+bare metal...;Bypassing+vendor+locks+with+surgical+logic...;Target+Acquired:+Jugend+forscht+2027...;Maximum+Compute.+Zero+Overhead.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/Void-Compute"><img src="https://img.shields.io/badge/Organization-Void_Compute-000000?style=for-the-badge&logo=github&logoColor=white" alt="Org"></a>
@@ -21,7 +21,6 @@
 <div align="center">
   <img src="https://img.shields.io/github/stars/Void-Compute/AMD-Ghost-Enviroment?style=for-the-badge&logo=github&color=00FF99&label=Ghost%20Environment%20Stars" alt="Stars">
   
-  <img src="https://img.shields.io/badge/Rank-Architect_Grade_A%2B-00599C?style=for-the-badge&logo=starship&logoColor=white" alt="Rank">
 </div>
 
 <br>
@@ -45,19 +44,19 @@ Expertise in circumventing proprietary hardware monopolies to run high-performan
 
 ---
 
-## 🗺️ STRATEGIC ROADMAP
+## 🗺️ ROADMAP
 
 - [x] **Phase 1:** Core environment sandboxing and dynamic NVML spoofing.
 - [x] **Phase 2:** AMD ROCm optimization and hardware-level masking.
-- [ ] **Phase 3 (Active):** **Intel Version Deployment** — Full oneAPI / Level Zero native support.
-- [ ] **Phase 4:** ZLUDA OptiX translation layer for hardware-agnostic Ray Tracing.
-- [ ] **Phase 5:** System-wide GUI overhaul and performance benchmark suite.
+- [ ] **Phase 3 (Active):** Getting a working viewport aswell as External Memory Handoffs.
+- [ ] **Phase 4:** Getting AI Denoisers to work aswell as frame gen and other upscaling technologys
+- [ ] **Phase 5:** System wide GUI overhaul and performance benchmark suite.
 - [ ] **Final Target:** **Jugend forscht 2027**.
 
 ---
 
 ## 🎧 RUNTIME AUDIO DRIVERS
-*Current Auditory Environment Locked to ASOT 1259.*
+
 
 | **Operational State** | **Assigned Artist** | **Audio Stream** |
 | :--- | :--- | :--- |
@@ -67,4 +66,3 @@ Expertise in circumventing proprietary hardware monopolies to run high-performan
 | **High-Speed Debugging** | `Skrillex` | [System Audio](https://www.youtube.com/results?search_query=Skrillex) |
 | **Protocol Takedown** | `Limp Bizkit` | [System Audio](https://www.youtube.com/results?search_query=Limp+Bizkit) |
 
-> **"Watch me. The logic doesn't lie."**
