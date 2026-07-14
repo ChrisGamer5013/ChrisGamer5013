@@ -27,9 +27,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisGamer5013&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGamer5013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" width="48%" />
-</div>
 
 ---
 
