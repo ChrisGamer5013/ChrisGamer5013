@@ -3,10 +3,7 @@
 # 🌌 CHRISTOPHER MANIUT | VOID COMPUTE
 **Lead Architect & Systems Reverse-Engineer**
 
-[![Typing SVG](https://readme-typing
--svg.herokuapp.com?font=Fira+Code&weight =500&size=22&pause=1000&color=00FF99 &center=true&vCenter=true&width=600& lines=Translating+CUDA+to+HIP+at+bare -metal...;Bypassing+vendor+locks+wit h+surgical+logic...;Target+Acquired: +Jugend+forscht+2027...;Maximum+Compute. +Zero+0verhead.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight =500&size=22&pause=1000&color=00FF99 &center=true&vCenter=true&width=600& lines=Translating+CUDA+to+HIP+at+bare -metal...;Bypassing+vendor+locks+wit h+surgical+logic...;Target+Acquired: +Jugend+forscht+2027...;Maximum+Compute. +Zero+0verhead.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Translating+CUDA+to+HIP+at+bare-metal...;Bypassing+vendor+locks+with+surgical+logic...;Target+Acquired:+Jugend+forscht+2027...;Maximum+Compute.+Zero+Overhead.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/Void-Compute"><img src="https://img.shields.io/badge/Organization-Void_Compute-000000?style=for-the-badge&logo=github&logoColor=white" alt="Org"></a>
