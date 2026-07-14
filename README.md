@@ -35,7 +35,7 @@
 
 ## ⚙️ THE ARCHITECTURE
 
-Expertise in circumventing proprietary hardware monopolies to run high-performance AI and rendering pipelines natively on AMD (ROCm/HIP) and Intel (Level Zero) architectures. Focus is strictly on zero-overhead translation at the bare-metal level.
+Building translation layers that allow CUDA first AI and rendering software yo execute on non NVIDIA hardware with minimal overhead AMD (ROCm/HIP) and Intel (Level Zero) architectures.
 
 ### 🔬 Core Competencies
 * **Translation Layers:** PTX-to-SPIRV mapping, dynamic CUDA-to-HIP syntax translation, and ZLUDA bridging.
