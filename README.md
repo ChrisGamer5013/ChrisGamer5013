@@ -45,7 +45,7 @@ Building translation layers that allow CUDA first AI and rendering software yo e
 
 - [x] **Phase 1:** Core environment sandboxing and dynamic NVML spoofing.
 - [x] **Phase 2:** AMD ROCm optimization and hardware-level masking.
-- [ ] **Phase 3 (Active):** Getting a working viewport aswell as External Memory Handoffs.
+- [x] **Phase 3 (Active):** Getting a working viewport aswell as External Memory Handoffs.
 - [ ] **Phase 4:** Getting AI Denoisers to work aswell as frame gen and other upscaling technologys
 - [ ] **Phase 5:** System wide GUI overhaul and performance benchmark suite.
 - [ ] **Final Target:** **Jugend forscht 2027**.
