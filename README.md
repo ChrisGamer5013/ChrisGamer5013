@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 CHRISTOPHER MANIUT | VOID COMPUTE
+#  CHRISTOPHER MANIUT | VOID COMPUTE
 **Lead Architect & Systems Reverse-Engineer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Translating+CUDA+to+HIP+at+bare-metal...;Bypassing+vendor+locks+with+surgical+logic...;Target+Acquired:+Jugend+forscht+2027...;Maximum+Compute.+Zero+Overhead.)](https://git.io/typing-svg)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 TELEMETRY & SYSTEM STATS
+## STATS
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/Void-Compute/AMD-Ghost-Enviroment?style=for-the-badge&logo=github&color=00FF99&label=Ghost%20Environment%20Stars" alt="Stars">
@@ -30,18 +30,18 @@
 
 ---
 
-## ⚙️ THE ARCHITECTURE
+##     THE ARCHITECTURE
 
 Building translation layers that allow CUDA first AI and rendering software yo execute on non NVIDIA hardware with minimal overhead AMD (ROCm/HIP) and Intel (Level Zero) architectures.
 
-### 🔬 Core Competencies
+###     Core Competencies
 * **Translation Layers:** PTX-to-SPIRV mapping, dynamic CUDA-to-HIP syntax translation, and ZLUDA bridging.
 * **Kernel Hooking:** JIT-compiling C++ hypervisor stubs for hardware spoofing and NVML telemetry interception.
 * **Environment Sandboxing:** Automated dependency resolution and isolated system-level runtime states.
 
 ---
 
-## 🗺️ ROADMAP
+##   ROADMAP
 
 - [x] **Phase 1:** Core environment sandboxing and dynamic NVML spoofing.
 - [x] **Phase 2:** AMD ROCm optimization and hardware-level masking.
@@ -52,7 +52,7 @@ Building translation layers that allow CUDA first AI and rendering software yo e
 
 ---
 
-## 🎧 RUNTIME AUDIO DRIVERS
+## MUSIC I LISTEN TO
 
 
 | **Operational State** | **Assigned Artist** | **Audio Stream** |
