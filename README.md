@@ -16,7 +16,7 @@
 
 ---
 
-## STATS
+##     STATS
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/Void-Compute/AMD-Ghost-Enviroment?style=for-the-badge&logo=github&color=00FF99&label=Ghost%20Environment%20Stars" alt="Stars">
